@@ -1,0 +1,2 @@
+Voy a aprender y practicar cosas ed html como las que estuve viendo anteriormente, las pondre en practica,
+como poner titulos, head, textos, negrita cursiva, links, imagenes, y sobre todo practicar la confirmacion de mensajes de git
