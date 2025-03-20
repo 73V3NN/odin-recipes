@@ -1,0 +1,26 @@
+h1 {
+    background-color: red;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+}
+
+h2 {
+    background-color: blue;
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+}
+
+h3 {
+    color: turquoise;
+}
+
+.Pasos {
+    color:brown
+}
+
