@@ -1,0 +1,11 @@
+h1 {
+    font-size: 70px;
+    background-color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.comida {
+    font-weight: bold;
+    font-size: 35px;
+    color:rgb(0, 174, 255);
+}
