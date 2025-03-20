@@ -1,0 +1,22 @@
+h1 {
+    color: yellow;
+    font-size: 80px;
+}
+
+#sub-title {
+    text-align: center;
+    color: blue;
+    font-weight: 900;
+}
+
+.listas {
+    color: red;
+}
+
+.item {
+    color: blue;
+}
+
+.item2 {
+    color: yellow;
+}
