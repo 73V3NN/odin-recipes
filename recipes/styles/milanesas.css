@@ -1,0 +1,18 @@
+#titulo {
+    text-align: center;
+    color: red;
+}
+
+
+
+.lista1 {
+    color: red;
+}
+
+.lista2 {
+    color: blue;
+}
+
+.ingre, .lista1 , .lista2 {
+    color: yellow;
+}
